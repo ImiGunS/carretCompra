@@ -3,6 +3,12 @@
 - S'ha de crear un nou readme amb els vostres comentaris
 - S'ha de fer exclusió d'aquells fitxers no necessaris
 
+# Issues
+
+No em va arribar cap correu conforme avui i havia examen, he anat totalment cec i sense estar preparat.
+SJK o SDK no actual·litzat, per tant no podia fer run al codi
+No hi havia cap pràctica corregida, com es suposa que em prepari per l'examen
+
 ## Sobre la refactorització
 
 - haureu de deixar clar en quina classe i/o mètode apliqueu refactorització, per tant per a tota la refactoritzacio cal posar un comentari com ara aquest:
